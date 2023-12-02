@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-notepack",
+	"name": "Obsidian Notepack",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Notepack CLI as an Obsidian plugin",
+	"author": "Dave Shepard",
+	"authorUrl": "https://kynatro.com",
+	"fundingUrl": "",
+	"isDesktopOnly": true
 }
