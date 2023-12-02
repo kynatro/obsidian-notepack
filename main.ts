@@ -1,7 +1,6 @@
-import { Plugin, TFile, TFolder, normalizePath } from 'obsidian';
-import { ObsidianNotepackSettings } from './interfaces';
-import ObsidianNotepackSettingTab from 'setting-tab';
-import { DEFAULT_SETTINGS } from './constants';
+import { ObsidianNotepackSettings } from './src/interfaces';
+import ObsidianNotepackSettingTab from 'src/setting-tab';
+import { DEFAULT_SETTINGS } from './src/constants';
 
 export default class ObsidianNotepack extends Plugin {
 	settings: ObsidianNotepackSettings;

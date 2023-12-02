@@ -1,5 +1,5 @@
 import { App, PluginSettingTab, Setting } from 'obsidian';
-import ObsidianNotepack from './main';
+import ObsidianNotepack from '../main';
 import { ObsidianNotepackSetting } from './interfaces';
 import { PLUGIN_SETTINGS } from './constants';
 
